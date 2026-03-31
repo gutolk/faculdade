@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">CalculaGas</string>
+
+    <string-array name="opcoes_veiculo">
+        <item>Selecione a marca...</item>
+        <item>Fiat</item>
+        <item>Volkswagen</item>
+        <item>Chevrolet</item>
+        <item>Honda</item>
+        <item>Toyota</item>
+        <item>Hyundai</item>
+        <item>Renault</item>
+        <item>Ford</item>
+        <item>Yamaha</item>
+        <item>Kawasaki</item>
+    </string-array>
+
+</resources>
